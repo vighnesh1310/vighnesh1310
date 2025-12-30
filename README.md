@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vighnesh Kadam
 
-🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 MERN Stack Developer  
+🎓 MCA Student | 📊 Data Analyst | 💻 MERN Stack Developer  
 📍 Sangli, Maharashtra, India
 
 ---
