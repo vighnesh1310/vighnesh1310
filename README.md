@@ -39,7 +39,7 @@ I enjoy transforming raw data into meaningful insights and building scalable, re
 
 ## 📊 GitHub Stats
 
-![Vighnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vighnesh1310&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vighnesh1310)](https://github.com/vighnesh1310/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh1310&layout=compact&theme=tokyonight)
 
