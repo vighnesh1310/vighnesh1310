@@ -39,7 +39,7 @@ I enjoy transforming raw data into meaningful insights and building scalable, re
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vighnesh1310&show_icons=true&theme=tokyonight)
+![Vighnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vighnesh1310&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh1310&layout=compact&theme=tokyonight)
 
@@ -47,7 +47,7 @@ I enjoy transforming raw data into meaningful insights and building scalable, re
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vighnesh1310&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=vighnesh1310&theme=tokyonight)
 
 ---
 
