@@ -1,34 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Vighnesh Kadam
 
-<!--
-**vighnesh1310/vighnesh1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 📊 Aspiring Data Analyst | 💻 MERN Stack Developer  
+📍 Sangli, Maharashtra, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am an MCA student with a strong foundation in **data analysis, database management, and full-stack web development**.  
+I enjoy transforming raw data into meaningful insights and building scalable, real-world applications.
+
+---
+
+## 🛠 Technical Skills
+
+### 🔹 Data Analysis
+- Python, Pandas, NumPy
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn)
+
+### 🔹 Databases
+- MySQL, SQL
+- MongoDB
+
+### 🔹 Web Development (MERN)
+- React.js
+- Node.js, Express.js
+- REST APIs
+- JWT Authentication
+
+### 🔹 Tools & Platforms
+- Git & GitHub
+- VS Code, Jupyter Notebook
+- Postman
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vighnesh1310&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh1310E&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh1310&layout=compact&theme=tokyonight)
 
-## 🛠 Skills
+---
 
-- Python | Pandas | NumPy
-- SQL | MySQL
-- Data Analysis & Visualization
-- React | JavaScript
-- Git & GitHub
+## 🔥 GitHub Streak
 
-## 👋 About Me
+![GitHub Streak](https://streak-stats.demolab.com/?user=vighnesh1310&theme=tokyonight)
 
-MCA student and Data Analyst with strong foundations in Python, SQL, and data visualization.  
-Passionate about turning raw data into actionable insights and building real-world projects.
+---
+
+## 🚀 Projects Highlights
+
+- **CryptoTrack** – Crypto portfolio tracker with charts, watchlist, alerts, and PDF/Excel export  
+- **RideSync** – Ride-sharing platform using Spring Boot, MySQL & Map APIs  
+- **Data Analysis Projects** – EDA, dashboards, and business insights using Python & SQL  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vighnesh-kadam-aa6001288
+- 📧 Email: vighneshkadam575@gmail.com
+
+---
+
+⭐ *Always learning, always building.*
