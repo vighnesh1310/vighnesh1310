@@ -37,17 +37,14 @@ I enjoy transforming raw data into meaningful insights and building scalable, re
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-[![Vighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vighnesh1310)](https://github.com/vighnesh1310/github-readme-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vighnesh1310&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh1310&layout=compact&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vighnesh1310&theme=tokyonight)
 
----
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vighnesh1310&theme=tokyonight)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vighnesh1310&theme=tokyonight)
 
 ---
 
