@@ -37,13 +37,14 @@ I enjoy transforming raw data into meaningful insights and building scalable, re
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vighnesh1310&theme=tokyonight)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vighnesh1310&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vighnesh1310&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vighnesh1310&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vighnesh1310&theme=tokyonight)
+
 
 
 ---
