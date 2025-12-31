@@ -41,7 +41,7 @@ I enjoy transforming raw data into meaningful insights and building scalable, re
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vighnesh1310&theme=tokyonight)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vighnesh1310&theme=tokyonight) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vighnesh1310&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vighnesh1310&theme=tokyonight)   ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vighnesh1310&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
@@ -52,7 +52,7 @@ I enjoy transforming raw data into meaningful insights and building scalable, re
 ## 🚀 Projects Highlights
 
 - **CryptoTrack** – Crypto portfolio tracker with charts, watchlist, alerts, and PDF/Excel export  
-- **RideSync** – Ride-sharing platform using Spring Boot, MySQL & Map APIs  
+- **RideSync** – Ride-sharing platform using Spring Boot, MySQL & Map and admin dashboard using Streamlit for real-time monitoring and management.  
 - **Data Analysis Projects** – EDA, dashboards, and business insights using Python & SQL  
 
 ---
